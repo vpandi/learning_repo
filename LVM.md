@@ -47,7 +47,7 @@ Growpart is the tool we will use. It is used to extend a partition in a partitio
 You type the below command to install growpart.
 
 
-# yum install cloud-utils-growpart -y
+ yum install cloud-utils-growpart -y
 
 
 Use growpart to expand the partition
@@ -121,7 +121,7 @@ You may be wondering where do I get this /dev/centos/root path? Very simply, typ
   LV Write Access        read/write
   LV Creation host, time localhost, 2015-11-02 12:59:02 -0500
   LV Status              available
-  # open                 2
+   open                 2
   LV Size                820,00 MiB
   Current LE             205
   Segments               1
@@ -131,7 +131,7 @@ You may be wondering where do I get this /dev/centos/root path? Very simply, typ
   Block device           253:1
   
   
- ou see the LV Name section with the root name. You will see its corresponding LV Path section.
+ You see the LV Name section with the root name. You will see its corresponding LV Path section.
 
 Now we will check the final result, whether the root partition has been expended or not.
 
