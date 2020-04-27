@@ -1,0 +1,15 @@
+AWS VPC,Route53, Autoscale,LB, S3,EC2
+Global LB in AWS
+Split Brain Pbm in ES
+Pod communication across cluster
+KMS in AWS
+Ansible vault
+Ansible remote file copy
+CAP theorem
+Keep alived
+K8S services -> Ingress/LB
+Liveness Probe/readiness probe
+CoreDNS-KubeDNS
+Ansible FORK,Serial
+MongoDB election process
+K8s PVs
