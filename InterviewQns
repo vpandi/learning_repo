@@ -13,3 +13,8 @@ CoreDNS-KubeDNS
 Ansible FORK,Serial
 MongoDB election process
 K8s PVs
+Null resources in terraform
+terraform import
+cloud-configcloud-init
+JDk/JRE
+Python import
