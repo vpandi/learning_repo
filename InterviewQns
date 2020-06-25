@@ -18,3 +18,8 @@ terraform import
 cloud-configcloud-init
 JDk/JRE
 Python import
+Scripted vs Declarative Pipeline
+Docker COPY vs ADD/CMD vs ENTRYPOINT
+Docker container security
+
+
